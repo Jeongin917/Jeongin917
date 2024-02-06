@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20Jeongin's%20GitHub👋&animation=&fontColor=ffffff&fontSize=30&fontAlignY=40&fontAlign=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20Jeongin's%20GitHub&animation=&fontColor=ffffff&fontSize=30&fontAlignY=40&fontAlign=70" />
     </div>
      <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
