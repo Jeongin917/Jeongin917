@@ -32,7 +32,7 @@
        <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Jeongin917&bg_color=180,000000,&title_color=000000&text_color=000000"/>
            </div> 
     </div>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongin917&count_bg=%23ED866A&title_bg=%23928E8E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%F0%9F%94%A5&edge_flat=false"/></a>
 
 
 
